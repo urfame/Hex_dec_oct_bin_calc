@@ -1,0 +1,3 @@
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\x64\Debug\CalculatorforCTF.vcxproj.AssemblyReference.cache
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\x64\Debug\CalculatorforCTF.MyForm.resources
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\x64\Debug\CalculatorforCTF.vcxproj.GenerateResource.cache

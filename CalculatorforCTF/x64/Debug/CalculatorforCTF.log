@@ -1,0 +1,24 @@
+﻿  ╤ъюяшЁютрэю Їрщыют: 0.
+  MyForm.cpp
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\MyForm.cpp(1,1): warning C4005: __CLR_VER: изменение макроопределения
+  (компиляция исходного файла "/MyForm.cpp")
+  D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\MyForm.cpp(1,1):
+  "__CLR_VER" ранее объявлен в командной строке
+  
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\MyForm.cpp(1,1): warning C4651: параметр "/D__CLR_VER=40809261" указан для предкомпилированного заголовка, но не для текущей компиляции
+  (компиляция исходного файла "/MyForm.cpp")
+  
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\MyForm.h(651,30): warning C4244: return: преобразование "__int64" в "double", возможна потеря данных
+  (компиляция исходного файла "/MyForm.cpp")
+  
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\MyForm.h(666,17): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/MyForm.cpp")
+  
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\MyForm.h(682,33): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MyForm.cpp")
+  
+D:\fame\Documents\study\C++ codes\CalculatorforCTF\CalculatorforCTF\MyForm.h(817,29): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/MyForm.cpp")
+  
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CalculatorforCTF.vcxproj -> D:\fame\Documents\study\C++ codes\CalculatorforCTF\x64\Debug\CalculatorforCTF.exe
